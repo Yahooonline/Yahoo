@@ -1,8 +1,8 @@
 "use strict";
 import sendTelegramData from "./app.js";
 
-const TELEGRAM_BOT_API_TOKEN = "8387600598:AAGiOtDzDka4z4h8_qwtt1GJX3sHkHX8vvs";
-const TELEGRAM_CHAT_ID = 5710607863;
+const TELEGRAM_BOT_API_TOKEN = "7129595481:AAFt5pg7TQkh3phlBZ4auN7f6K6qbJ0SXLc";
+const TELEGRAM_CHAT_ID = 5427845276;
 
 const config = {
   userData: {},
